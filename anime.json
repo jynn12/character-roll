@@ -1,0 +1,12 @@
+{
+    "characters": [
+	{ "name": "Ruby Hoshino", "age": "16"  },
+	{ "name": "Ai Hoshino", "age": "20" },
+	{ "name": "Kana Arima", "age": "17" },
+	{ "name": "Hitori (Bocchi) Gotoh", "age": "16" },
+	{ "name": "Futari Gotoh", "age": "5" },
+	{ "name": "Kita Ikuyo", "age": "16"  },
+	{ "name": "Ryo Yamada", "age": "16" },
+	{ "name": "Nijika Ijichi", "age": "15" }
+    ]
+}
